@@ -3979,6 +3979,9 @@ input[type="button"].btn--primary:focus {
 .folio-list {
     max-width: 1180px;
     margin-top: var(--vspace-2_5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .folio-item__thumb {
@@ -4395,6 +4398,7 @@ input[type="button"].btn--primary:focus {
     background-color: var(--color-gray-18);
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-3_5);
+    color: white;
 }
 
 .s-contact .section-header-allcaps {
@@ -4413,6 +4417,18 @@ input[type="button"].btn--primary:focus {
 .s-contact__content [class*="column"]:last-child {
     margin-left: auto;
 }
+
+.contact-container{
+
+    display: block;
+   text-align: center;
+
+}
+
+.title-contact{
+color: #ffff;
+}
+
 
 /* ------------------------------------------------------------------- 
  * ## contact block
@@ -4569,6 +4585,8 @@ input[type="button"].btn--primary:focus {
     order: -1;
     margin-right: auto;
     position: relative;
+    text-align:center;
+    margin-left: 200px;
 }
 
 .ss-copyright span {

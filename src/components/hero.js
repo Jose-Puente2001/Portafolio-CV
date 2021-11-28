@@ -17,15 +17,6 @@ function Hero(){
             <i className="fab fa-twitter" aria-hidden="true" />
           </a>
           <a href="#0">
-            <i className="fab fa-instagram" aria-hidden="true" />
-          </a>
-          <a href="#0">
-            <i className="fab fa-dribbble" aria-hidden="true" />
-          </a>
-          <a href="#0">
-            <i className="fab fa-behance" aria-hidden="true" />
-          </a>
-          <a href="#0">
             <i className="fab fa-linkedin" aria-hidden="true" />
           </a>
         </div>

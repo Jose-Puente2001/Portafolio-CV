@@ -29,13 +29,8 @@ function Header(){
           </a>
         </li>
         <li>
-          <a className="smoothscroll" href="#testimonials">
-            Testimonials
-          </a>
-        </li>
-        <li>
           <a className="smoothscroll" href="#contact">
-            Say Hello
+            Contacts
           </a>
         </li>
       </ul>

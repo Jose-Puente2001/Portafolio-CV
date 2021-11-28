@@ -35,10 +35,7 @@ function Footer(){
       </ul>
     </div>
     <div className="column large-7 medium-6 w-1000-stack ss-copyright">
-      <span>© Copyright Ceevee 2021</span>
-      <span>
-        Design by <a href="https://www.styleshout.com/">StyleShout</a>
-      </span>
+      <span>Developed with love and dedication by José Puente ® 2021 </span>
     </div>
   </div>
   <div className="ss-go-top">
