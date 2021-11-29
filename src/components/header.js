@@ -4,6 +4,7 @@ import React from 'react';
 function Header(){
 
 	return(
+    <>
         <header className="s-header">
        <div className="row s-header__nav-wrap">
       <nav className="s-header__nav">
@@ -29,6 +30,11 @@ function Header(){
           </a>
         </li>
         <li>
+          <a className="smoothscroll" href="https://eldiariodelawebjosepuente.blogspot.com/" target="_blank">
+            Blog
+          </a>
+        </li>
+        <li>
           <a className="smoothscroll" href="#contact">
             Contacts
           </a>
@@ -41,6 +47,7 @@ function Header(){
     <span className="s-header__menu-icon" />
   </a>
 </header>
+</>
  );
 }
 

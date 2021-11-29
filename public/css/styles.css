@@ -4559,6 +4559,8 @@ color: #ffff;
     margin: 0 0 0 .4rem;
     position: relative;
     top: -6%;
+    display: flex;
+    justify-content: center;
 }
 
 .s-footer__social a {

@@ -9,17 +9,6 @@ function Hero(){
       <div className="s-hero__content-about">
         <h1>I'm José Puente</h1>
         <h3>And I like to create things with web technology</h3>
-        <div className="s-hero__content-social">
-          <a href="#0">
-            <i className="fab fa-facebook-square" aria-hidden="true" />
-          </a>
-          <a href="#0">
-            <i className="fab fa-twitter" aria-hidden="true" />
-          </a>
-          <a href="#0">
-            <i className="fab fa-linkedin" aria-hidden="true" />
-          </a>
-        </div>
       </div>{" "}
       {/* end s-hero__content-about */}
     </div>
