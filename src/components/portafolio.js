@@ -65,8 +65,8 @@ function Portafolio(){
         <div className="card">
        <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>CrytoStatus. IP address tracking application through a geolocation map</h3>
-         <p>Made with: React Native, API</p>
+         <h3>Weblink. Web application for registration of website links</h3>
+         <p>Made with: PHP, MySQL y BootstrapI</p>
        </div>
        </div>
     </div>{" "}
