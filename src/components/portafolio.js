@@ -45,7 +45,7 @@ function Portafolio(){
     </div>{" "}
     <div className="column folio-item rowfolio2">
         <div className="card">
-       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/SAfIvntd50o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
          <h3>IP Address Tracker. IP address tracking application through a geolocation map</h3>
          <p>Made with: HTML, CSS, JavaScript, Sass, Node Js, Express, API</p>
