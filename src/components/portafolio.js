@@ -1,4 +1,5 @@
 import React from 'react';
+import Iframe from 'react-iframe';
 
 function Portafolio(){
 
@@ -13,38 +14,62 @@ function Portafolio(){
       </div>
     </div>
     <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
-      <div className="column folio-item">
-        <a href="https://ip-address-tracker-taupe-beta.vercel.app/" target="_blank">
-          <img
-            src="images/portfolio/iptracker.jpg"
-            srcSet="images/portfolio/iptracker.jpg, 
-                           images/portfolio/iptracker.jpg"
-            
-          />
-        </a>
+    <div className="column folio-item rowfolio1">
+        <div className="card">
+        <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/SC9tdw_RoRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>Football Systems Project CRUD</h3>
+         <p>Made with: PHP, MySQL y Bootstrap</p>
+       </div>
+       </div>
       </div>{" "}
       {/* end folio-item */}
-      <div className="column folio-item">
-        <a href="https://play.google.com/store/apps/details?id=com.josepuente.reactnativecrypto" target="_blank">
-          <img
-            src="images/portfolio/cryptostatus.jpg"
-            srcSet="images/portfolio/cryptostatus.jpg, 
-                           images/portfolio/cryptostatus.jpg"
-            
-          />
-        </a>
-      </div>{" "}
+      <div className="column folio-item rowfolio1">
+        <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/tHrPtoOKpy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>Inventory System for the Raul Gonzales Castro Community Pharmacy</h3>
+         <p>Made with: PHP, MySQL y Bootstrap</p>
+       </div>
+       </div>
+    </div>{" "}
       {/* end folio-item */}
-      <div className="column folio-item">
-        <a href="https://bramonte.com/" target="_blank">
-          <img
-            src="images/portfolio/bramote.jpg"
-            srcSet="images/portfolio/bramote.jpg, 
-                           images/portfolio/bramote.jpg"
-            
-          />
-        </a>
-      </div>{" "}
+      <div className="column folio-item rowfolio1">
+        <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>Mobile application for Inventory for the Raul Gonzales Castro Community Pharmacy</h3>
+         <p>Made with: React Native y Firebase</p>
+       </div>
+       </div>
+    </div>{" "}
+    <div className="column folio-item rowfolio2">
+        <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>IP Address Tracker. IP address tracking application through a geolocation map</h3>
+         <p>Made with: HTML, CSS, JavaScript, Sass, Node Js, Express, API</p>
+       </div>
+       </div>
+    </div>{" "}
+    <div className="column folio-item rowfolio2">
+        <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/IBzvFR08dVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>CrytoStatus. Cryptocurrency prices app</h3>         
+         <p>Made with: React Native, API</p>
+       </div>
+       </div>
+    </div>{" "}
+     <div className="column folio-item rowfolio2">
+        <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card-content">
+         <h3>CrytoStatus. IP address tracking application through a geolocation map</h3>
+         <p>Made with: React Native, API</p>
+       </div>
+       </div>
+    </div>{" "}
     </div>{" "}
     {/* end folio-list */}
     {/* Modal Templates Popup
