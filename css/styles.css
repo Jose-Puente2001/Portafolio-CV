@@ -741,7 +741,7 @@ input[type="password"], textarea {
 }
 
 .collapse>.column, .column.collapse {
-    padding: 0;
+    padding: 0 10px;
 }
 
 /* flex row containers utility classes
@@ -3979,8 +3979,6 @@ input[type="button"].btn--primary:focus {
 .folio-list {
     max-width: 1180px;
     margin-top: var(--vspace-2_5);
-    display: flex;
-    align-items: center;
     justify-content: center;
 }
 
@@ -4034,8 +4032,9 @@ input[type="button"].btn--primary:focus {
     top: 50%;
 }
 
-.folio-item img {
-    display: block;
+.folio-item{
+    display: flex;
+    justify-content: space-around;
     margin: 0;
     -webkit-transition: all, .5s;
     transition: all, .5s;
