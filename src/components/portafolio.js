@@ -16,10 +16,10 @@ function Portafolio(){
     <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
     <div className="column folio-item rowfolio1">
         <div className="card">
-        <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/SC9tdw_RoRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/F9vd1uv9h5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>Football Systems Project CRUD</h3>
-         <p>Made with: PHP, MySQL y Bootstrap</p>
+         <h3>Young shoe. Online store</h3>
+         <p>Made with: WordPress and WooCommerce</p>
        </div>
        </div>
       </div>{" "}
