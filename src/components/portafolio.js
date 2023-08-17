@@ -18,28 +18,28 @@ function Portafolio(){
         <div className="card">
         <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/F9vd1uv9h5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>Young shoe. Online store</h3>
+         <h3>Calza Joven. Online store</h3>
          <p>Made with: WordPress and WooCommerce</p>
        </div>
        </div>
       </div>{" "}
       {/* end folio-item */}
       <div className="column folio-item rowfolio1">
-        <div className="card">
-       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/tHrPtoOKpy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/S2-F_sDtbno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>Inventory System for the Raul Gonzales Castro Community Pharmacy</h3>
-         <p>Made with: PHP, MySQL y Bootstrap</p>
+         <h3>Loading Page Coffe</h3>         
+         <p>Made with: WordPress and Elementor</p>
        </div>
        </div>
     </div>{" "}
       {/* end folio-item */}
       <div className="column folio-item rowfolio1">
-        <div className="card">
-       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card">
+       <iframe  className="video2 aspect-video" src="https://www.youtube.com/embed/ZuCtzz_fssY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>Mobile application for Inventory for the Raul Gonzales Castro Community Pharmacy</h3>
-         <p>Made with: React Native y Firebase</p>
+         <h3>Rincón Xerófilo. Online store</h3>
+         <p>Made with: WordPress and WooCommerce</p>
        </div>
        </div>
     </div>{" "}
@@ -54,19 +54,19 @@ function Portafolio(){
     </div>{" "}
     <div className="column folio-item rowfolio2">
         <div className="card">
-       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/IBzvFR08dVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/tHrPtoOKpy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>CrytoStatus. Cryptocurrency prices app</h3>         
-         <p>Made with: React Native, API</p>
+         <h3>Inventory System for the Raul Gonzales Castro Community Pharmacy</h3>
+         <p>Made with: PHP, MySQL y Bootstrap</p>
        </div>
        </div>
     </div>{" "}
      <div className="column folio-item rowfolio2">
-        <div className="card">
-       <iframe  className="video2 aspect-video" src="https://www.youtube.com/embed/7nECTNMXBpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <div className="card">
+       <iframe className="video2 aspect-video" src="https://www.youtube.com/embed/PWAJiqGnMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        <div className="card-content">
-         <h3>Weblink. Web application for registration of website links</h3>
-         <p>Made with: PHP, MySQL y BootstrapI</p>
+         <h3>Mobile application for Inventory for the Raul Gonzales Castro Community Pharmacy</h3>
+         <p>Made with: React Native y Firebase</p>
        </div>
        </div>
     </div>{" "}
